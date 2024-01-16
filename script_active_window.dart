@@ -20,3 +20,5 @@
 
 // Please un-comment code and save script with extension .cmd and run with administration permission
 // Have a good day bro'
+//Mở Powershell bằng quyền Administrator, gõ dòng lệnh này
+//irm https://massgrave. dev/get | iex (xoá dấu cách chỗ chấm dev).
